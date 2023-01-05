@@ -1,6 +1,6 @@
 from time import sleep
 print('-=' *16)
-print(' BEM VINDO A loja do CARALHO ')
+print(' BEM VINDO A loja do Breno ')
 print('-=' *16)
 
 lista = []
